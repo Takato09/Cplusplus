@@ -1,4 +1,4 @@
-//masīvi_2
+// masīvi_2
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

@@ -1,4 +1,4 @@
-//masivi_1
+// masivi_1
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
